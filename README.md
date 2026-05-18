@@ -1,7 +1,7 @@
-```md id="r3nq4w"
+```md id="nmx9v1"
 <div align="center">
 
-# 👋 Hello, I'm Yaroslav Azbel
+# 👋 Hey, I'm Yaroslav Azbel
 
 ### Unity Developer from Kazakhstan 🇰🇿
 
@@ -13,16 +13,15 @@
 
 # 👨‍💻 About Me
 
-- 🎮 Unity Developer
-- 💻 Working with C# and Unity Engine
-- 🧠 Interested in Game Architecture and Clean Code
-- ⚙️ Using Zenject, UniRx/R3 and scalable approaches
-- 🚀 Developing gameplay systems and UI mechanics
-- 📚 Continuously improving programming and architecture skills
+- 🎮 Unity Developer focused on scalable architecture and clean code
+- 🧠 Interested in Game Architecture, Reactive Programming and Game Systems
+- ⚙️ Working with Zenject, R3/UniRx, async systems and modular design
+- 🚀 Developing gameplay systems, UI systems and pet-projects
+- 📚 Constantly improving C# and Unity engineering skills
 
 ---
 
-# 🛠 Frameworks & Technologies
+# 🛠️ Frameworks & Technologies
 
 <div align="center">
 
@@ -31,9 +30,22 @@
 <br><br>
 
 <img src="https://img.shields.io/badge/Zenject-0D1117?style=for-the-badge&logo=unity&logoColor=white"/>
-<img src="https://img.shields.io/badge/R3-0D1117?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/UniRx-0D1117?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DOTween-0D1117?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/R3-0D1117?style=for-the-badge&logo=csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/UniRx-0D1117?style=for-the-badge&logo=reactivex&logoColor=white"/>
+<img src="https://img.shields.io/badge/DOTween-0D1117?style=for-the-badge&logo=unity&logoColor=white"/>
+<img src="https://img.shields.io/badge/UniTask-0D1117?style=for-the-badge&logo=sharp&logoColor=white"/>
+
+</div>
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shoroh212&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shoroh212&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -43,7 +55,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/Shoroh212/Shoroh212/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
