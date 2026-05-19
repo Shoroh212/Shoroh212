@@ -10,8 +10,9 @@
   <img src="https://img.shields.io/badge/MAX-8A2BE2?logo=linkedin&logoColor=white"/>
  
 </div>
-
-<h1>
-  Привет
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+<div align="center">
+  <h1>
+    Привет
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
+</div>
