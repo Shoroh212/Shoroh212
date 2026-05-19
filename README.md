@@ -21,10 +21,9 @@
 </div>
 
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope:  Разрабатываю игровые механики и интерактивные системы на Unity
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Проектирую архитектуру приложений и пишу чистый, масштабируемый C# код
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: Постоянно прокачиваю скилл в геймдеве и инженерии игровых систем
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
