@@ -17,5 +17,5 @@
   </h1>
 </div>
 <div align="center">
-  <img src="https://tenor.com/bezWC.gif" width="600" height="300"/>
+  <img src="https://media1.tenor.com/m/1mwdqr51emcAAAAd/test-typing.gif" width="600" height="300"/>
 </div>
