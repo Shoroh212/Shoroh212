@@ -19,3 +19,12 @@
 
  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bm1pZ3M2eXJuejRyYnR5NXM1djg4d3NyeTMwMTJ4ZnN6OG1pMGN3NCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/maNB0qAiRVAty/giphy.gif" width="80px"/>
 </div>
+
+
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
