@@ -4,3 +4,8 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cXJicHRmZGdvZzVvajl1bDVtcHVqczhmcWZxa3YxbjNzdmNtMzV2ayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oEjHWbXcpeKhTktXi/giphy.gif" width="550"/>
 </div>
+<div id="badges">
+  <img src="https://img.shields.io/badge/Telegram-blue?logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+</div>
