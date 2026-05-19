@@ -8,6 +8,7 @@
   <img src="https://img.shields.io/badge/Telegram-blue?logo=linkedin&logoColor=white"/>
   <img src="https://img.shields.io/badge/WhatsApp-grean?logo=linkedin&logoColor=white"/>
   <img src="https://img.shields.io/badge/MAX-8A2BE2?logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Kwork-gray?logo=linkedin&logoColor=white"/>
  
 </div>
 <div align="center">
@@ -25,7 +26,8 @@
 ### :man_technologist: Обо мне 
   
 </div>
-- :telescope:  Разрабатываю игровые механики и интерактивные системы на Unity
+
+- :seedling:  Разрабатываю игровые механики и интерактивные системы на Unity
 
 - :seedling: Проектирую архитектуру приложений и пишу чистый, масштабируемый C# код
 
