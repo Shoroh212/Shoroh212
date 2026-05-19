@@ -7,6 +7,6 @@
 <div id="badges">
   <img src="https://img.shields.io/badge/Telegram-blue?logo=linkedin&logoColor=white"/>
   <img src="https://img.shields.io/badge/WhatsApp-grean?logo=linkedin&logoColor=white"/>
-<img src="https://img.shields.io/badge/WhatsApp-grean?logo=linkedin&logoColor=white"/>
+  <img scr="https://img.shields.io/badge/MAX-5B6DFF?logoColor=white"/>
  
 </div>
