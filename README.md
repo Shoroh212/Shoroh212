@@ -29,6 +29,9 @@
 <h2>
 Меня зовут Ярослав, я Junior+ Unity разрабочтик с опытом работы в команде и фрилансе 
 </h2> 
+
+
+  [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 </div>  
   
 </div>
