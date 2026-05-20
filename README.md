@@ -32,9 +32,7 @@
 
 
  
-</div>  
-  [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev) 
-</div>
+
 
 - :mechanic:  Разрабатываю игровые механики и интерактивные системы на Unity
 
@@ -42,3 +40,12 @@
 
 - :zap: Постоянно прокачиваю скилл в геймдеве и инженерии игровых систем
 
+
+<div>  
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
+</div>
