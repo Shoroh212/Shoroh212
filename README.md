@@ -40,12 +40,10 @@
 
 - :zap: Постоянно прокачиваю скилл в геймдеве и инженерии игровых систем
 
-
-<div>  
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="cs" />
-  </a>
-</p>
+<div>
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,react" />
+    </a>
+  </p>
 </div>
