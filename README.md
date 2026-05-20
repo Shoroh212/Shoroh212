@@ -40,10 +40,15 @@
 
 - :zap: Постоянно прокачиваю скилл в геймдеве и инженерии игровых систем
 
+
 <div>
   <p align="center">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=cs,dotnet,unity,ps,git" />
     </a>
+  </p>
+
+  <p align="center">
+    <img src="https://img.shields.io/badge/Zenject-white?style=for-the-badge&logo=csharp&logoColor=purple"/>
   </p>
 </div>
