@@ -25,6 +25,11 @@
 <div>
 
 ### :man_technologist: Обо мне 
+<div aling="center">
+<h2>
+Меня зовут Ярослав, я Junior+ Unity разрабочтик с опытом работы в команде и фрилансе 
+</h2> 
+</div>  
   
 </div>
 
