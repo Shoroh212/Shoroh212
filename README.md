@@ -31,9 +31,9 @@
 </h2> 
 
 
-  [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+ 
 </div>  
-  
+  [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev) 
 </div>
 
 - :mechanic:  Разрабатываю игровые механики и интерактивные системы на Unity
