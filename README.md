@@ -10,16 +10,16 @@
     <img src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white"/>
   </a>
 
-  <a href="https://wa.me/+77072413916" target="_blank">
+  <a href="https://wa.me/77072413916" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white"/>
   </a>
 
-  <a href="https://max.ru/https://max.ru/u/f9LHodD0cOIRo1cNNIukH8TGEZwu-FjWmHYPuZr85VTgtGa1lSWwmvz7Jzg" target="_blank">
-    <img src="https://img.shields.io/badge/MAX-8A2BE2?logoColor=white"/>
+  <a href="https://max.ru/u/f9LHodD0cOIRo1cNNIukH8TGEZwu-FjWmHYPuZr85VTgtGa1lSWwmvz7Jzg" target="_blank">
+    <img src="https://img.shields.io/badge/MAX-8A2BE2?logo=messenger&logoColor=white"/>
   </a>
 
   <a href="https://kwork.ru/user/zebratime60" target="_blank">
-    <img src="https://img.shields.io/badge/Kwork-gray?logoColor=white&labelColor=gray&color=gray"/>
+    <img src="https://img.shields.io/badge/Kwork-00B86B?logo=freelancer&logoColor=white"/>
   </a>
 
 </div>
