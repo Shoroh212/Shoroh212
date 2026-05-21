@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white"/>
   </a>
 
-  <a href="https://wa.me/77000000000" target="_blank">
+  <a href="https://wa.me/+77072413916" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white"/>
   </a>
 
