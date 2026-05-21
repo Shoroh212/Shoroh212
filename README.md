@@ -5,12 +5,23 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cXJicHRmZGdvZzVvajl1bDVtcHVqczhmcWZxa3YxbjNzdmNtMzV2ayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oEjHWbXcpeKhTktXi/giphy.gif" width="550"/>
 </div>
 <div id="badges">
-  <img src="https://img.shields.io/badge/Telegram-blue?logo=linkedin&logoColor=white"/>
-   <a href="@Aliks_bit">
-  <img src="https://img.shields.io/badge/WhatsApp-grean?logo=linkedin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MAX-8A2BE2?logo=linkedin&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kwork-gray?logo=linkedin&logoColor=white&labelColor=gray&color=gray"/>
- 
+
+  <a href="https://t.me/Aliks_bit" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white"/>
+  </a>
+
+  <a href="https://wa.me/77000000000" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white"/>
+  </a>
+
+  <a href="https://max.ru/" target="_blank">
+    <img src="https://img.shields.io/badge/MAX-8A2BE2?logoColor=white"/>
+  </a>
+
+  <a href="https://kwork.ru/user/ТВОЙ_ПРОФИЛЬ" target="_blank">
+    <img src="https://img.shields.io/badge/Kwork-gray?logoColor=white&labelColor=gray&color=gray"/>
+  </a>
+
 </div>
 <div align="center">
   <h1>
