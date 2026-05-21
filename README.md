@@ -18,9 +18,9 @@
     <img src="https://img.shields.io/badge/MAX-8A2BE2?logo=messenger&logoColor=white"/>
   </a>
 
-  <a href="https://kwork.ru/user/zebratime60" target="_blank">
-    <img src="https://img.shields.io/badge/Kwork-00B86B?logo=freelancer&logoColor=white"/>
-  </a>
+<a href="https://kwork.ru/user/zebratime60" target="_blank">
+  <img src="https://img.shields.io/badge/Kwork-gray?logo=freelancer&logoColor=white&labelColor=gray&color=gray"/>
+</a>
 
 </div>
 <div align="center">
