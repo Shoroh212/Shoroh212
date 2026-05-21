@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/MAX-8A2BE2?logoColor=white"/>
   </a>
 
-  <a href="https://kwork.ru/user/https://kwork.ru/user/zebratime60" target="_blank">
+  <a href="https://kwork.ru/user/zebratime60" target="_blank">
     <img src="https://img.shields.io/badge/Kwork-gray?logoColor=white&labelColor=gray&color=gray"/>
   </a>
 
