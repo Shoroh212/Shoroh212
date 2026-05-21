@@ -19,7 +19,7 @@
   </a>
 
   <a href="https://kwork.ru/user/zebratime60" target="_blank">
-    <img src="https://img.shields.io/badge/Kwork-00B86B?logo=freelancer&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Kwork-00B86B?logo=freelancer&logoColor=gray"/>
   </a>
 
 </div>
