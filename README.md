@@ -69,7 +69,8 @@
 
 <div>
 
-### :fire: My Stats :
+### :fire: Моя статистика :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Shoroh212&theme=dark&background=000000)](https://git.io/streak-stats)
 
   
 </div>
