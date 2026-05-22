@@ -52,6 +52,11 @@
 - :zap: Постоянно прокачиваю скилл в геймдеве и инженерии игровых систем
 
 
+<div aling="center">
+<h2>
+### :hammer_and_wrench: Languages and Tools :
+</h2> 
+
 <div>
   <p align="center">
     <a href="https://skillicons.dev">
