@@ -53,7 +53,7 @@
 
 
 <div aling="center">
-<h2> :hammer_and_wrench: Languages and Tools :
+<h2 aling="center"> :hammer_and_wrench: Что я использую :
 </h2>
 </div>  
 
