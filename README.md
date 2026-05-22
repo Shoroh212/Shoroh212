@@ -53,9 +53,9 @@
 
 
 <div aling="center">
-<h2>
-### :hammer_and_wrench: Languages and Tools :
-</h2> 
+<h2> :hammer_and_wrench: Languages and Tools :
+</h2>
+</div>  
 
 <div>
   <p align="center">
