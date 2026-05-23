@@ -70,4 +70,4 @@
 <div>
 
 ### :fire: Моя статистика :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Shoroh212&theme=transparent&background=00000000&border=2E8B57&stroke=2E8B57&ring=7CFC00&fire=7CFC00&currStreakNum=FFFFFF&sideNums=A7F3D0&currStreakLabel=7CFC00&sideLabels=E2E8F0&dates=94A3B8)](https://git.io/streak-stats)</div>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Shoroh212&theme=transparent&background=00000000&border=2E8B57&stroke=2E8B57&ring=7CFC00&fire=7CFC00&currStreakNum=FFFFFF&sideNums=A7F3D0&currStreakLabel=7CFC00&sideLabels=E2E8F0&dates=94A3B8)](https://git.io/streak-stats)
