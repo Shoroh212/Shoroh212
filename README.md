@@ -64,11 +64,10 @@
     </a>
   </p>
 </div>
+### 🔥 Моя статистика :
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Shoroh212&theme=highcontrast&background=0B0F14&border=14532D&ring=22C55E&fire=86EFAC)](https://git.io/streak-stats)
 
 
 <div>
 
-### 🔥 Моя статистика :
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Shoroh212&theme=highcontrast&background=0B0F14&border=14532D&ring=22C55E&fire=86EFAC)](https://git.io/streak-stats)
