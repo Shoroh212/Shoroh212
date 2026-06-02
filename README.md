@@ -63,11 +63,10 @@
       <img src="https://skillicons.dev/icons?i=cs,dotnet,unity,ps,blender,git,fork" />
     </a>
   </p>
-</div>
-### 🔥 Моя статистика :
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Shoroh212&theme=highcontrast&background=0B0F14&border=14532D&ring=22C55E&fire=86EFAC)](https://git.io/streak-stats)
+## 📊 GitHub Stats
 
-
-<div>
-
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shoroh212&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shoroh212&layout=compact&theme=github_dark&hide_border=true" />
+</p>
