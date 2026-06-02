@@ -63,6 +63,7 @@
   </p>
 
 ### :fire: Моя статистика :
-[![GitHub Streak](https://streak-stats.demolab.com?user=Shoroh212&theme=sakura-x&border_radius=4.8&card_width=497&card_height=197)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Shoroh212&theme=dark)](https://git.io/streak-stats)
+
   
 </div>
