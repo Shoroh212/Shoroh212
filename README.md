@@ -1,4 +1,5 @@
 
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cXJicHRmZGdvZzVvajl1bDVtcHVqczhmcWZxa3YxbjNzdmNtMzV2ayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oEjHWbXcpeKhTktXi/giphy.gif" width="550"/>
 </div>
@@ -63,5 +64,7 @@
   </p>
 
 ### :fire: Моя статистика :
-[![GitHub Streak](https://streak-stats.demolab.com?user=Shoroh212&theme=shadow-purple&border_radius=4.8)](https://git.io/streak-stats)  
+[![GitHub Streak](https://streak-stats.demolab.com?user=Shoroh212&theme=dark)](https://git.io/streak-stats)
+
+  
 </div>
