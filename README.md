@@ -68,3 +68,6 @@
 
   
 </div>
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=Shoroh212&color=brightgreen)
