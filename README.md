@@ -63,10 +63,6 @@
     </a>
   </p>
 
-### :fire: Моя статистика :
-[![GitHub Streak](https://streak-stats.demolab.com?user=Shoroh212&theme=dark)](https://git.io/streak-stats)
 
-  
-</div>
 
 
