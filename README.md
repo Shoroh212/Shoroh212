@@ -42,7 +42,7 @@ My name is Yaroslav, and I am a Junior+ Unity Developer with experience in both 
 </h2>
 </div>
 
-- :mechanic: Developing game mechanics and interactive systems using Unity
+ Developing game mechanics and interactive systems using Unity
 
 - :octocat: Designing application architecture and writing clean, scalable C# code
 
