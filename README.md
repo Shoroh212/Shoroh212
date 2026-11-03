@@ -59,7 +59,7 @@ My name is Yaroslav, and I am a Junior+ Unity Developer with experience in both 
 <div>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=cs,dotnet,unity,ps,blender,git,fork" />
+      <img src="https://skillicons.dev/icons?i=cs,dotnet,unity,ps,blender" />
     </a>
   </p>
 </div>
